@@ -3,6 +3,7 @@
 Developed hardware+software solution for do-it-yourself haircuts during quaritine. 
 
 Hardware: Developed 3D model for head stabilizer with camera mounts.
+
 Software: Developing app that uses video stream to give step-by-step instructions on where and how to cut your hair. 
 
 Submission for Franklin Claure and Houston Claure
