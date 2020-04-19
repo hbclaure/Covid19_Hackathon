@@ -18,5 +18,7 @@ Repository files include:
 
 4.) Slideshow
 
+5.) Image of product(selfCut_image.png)
+
 
 ![Image description](selfCut_image.png)
