@@ -19,3 +19,4 @@ Repository files include:
 4.) Slideshow
 
 
+![Image description](selfCut_image.png)
