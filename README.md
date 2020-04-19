@@ -4,7 +4,7 @@ Developed hardware+software solution for do-it-yourself haircuts during quaritin
 
 Submission for Franklin Claure and Houston Claure
 
-Repository files includes:
+Repository files include:
 
 1.) Submission video: https://youtu.be/7QnX4EAQSqg
 
