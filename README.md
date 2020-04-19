@@ -1,6 +1,6 @@
 # Covid19_Hackathon
 
-Developed hardware+software solution for do-it-yourself haircuts during quaritine. 
+Developed hardware+software solution for do-it-yourself haircuts during quarantine. 
 
 Hardware: Developed 3D model for head stabilizer with adjustable camera mounts.
 
